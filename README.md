@@ -13,7 +13,7 @@ The first hand experience of the importance of balanced data really enlightened 
 
 Andrew and Boxiao also posted the AI4ALL computer vision material on their github pages, which can be visited at:
 - Andrew Kondrich (andrewk1)
-        - Computer vision slides: https://github.com/andrewk1/ai4all_computervision
-        - Jupyter notebooks / datasets: https://github.com/andrewk1/ai4all-computervision-solns
+  - Computer vision slides: https://github.com/andrewk1/ai4all_computervision
+  - Jupyter notebooks / datasets: https://github.com/andrewk1/ai4all-computervision-solns
 - Boxiao Pan (CaesarPan):
-        - Jupyter notebooks / datasets: https://github.com/CaesarPan/stanford-ai4all-vision
+  - Jupyter notebooks / datasets: https://github.com/CaesarPan/stanford-ai4all-vision
