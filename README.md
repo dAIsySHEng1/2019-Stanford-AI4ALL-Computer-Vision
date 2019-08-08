@@ -1,6 +1,6 @@
 # 2019 Stanford AI4ALL Computer Vision
 
-This repository contains the Jupyter notebook files that the 2019 Stanford AI4ALL computer vision group worked on at camp. The topic of our group reseach project was to map global poverty through analyzing patterns in Google Maps satellite images of areas that were impoverished and areas that weren't in poverty. 
+This repository contains the Jupyter notebook files and code that the 2019 Stanford AI4ALL computer vision group worked on together at the camp. The topic of our group reseach project was to map global poverty through analyzing patterns in Google Maps satellite images of areas that were impoverished and areas that weren't in poverty. 
 
 Through the guidance of our two amazing project mentors, Andrew Kondrich (andrewk1) and Boxiao Pan (CaesarPan), we explored different machine learning models, such as a fully connected neural network and a convolutional neural network (CNN), to find the optimal solution. 
 
@@ -12,3 +12,8 @@ The first hand experience of the importance of balanced data really enlightened 
 
 
 Andrew and Boxiao also posted the AI4ALL computer vision material on their github pages, which can be visited at:
+- Andrew Kondrich (andrewk1)
+        - Computer vision slides: https://github.com/andrewk1/ai4all_computervision
+        - Jupyter notebooks / datasets: https://github.com/andrewk1/ai4all-computervision-solns
+- Boxiao Pan (CaesarPan):
+        - Jupyter notebooks / datasets: https://github.com/CaesarPan/stanford-ai4all-vision
